@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apophis-github-fast-0908.vercel.app/sitemap.xml
